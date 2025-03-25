@@ -1,0 +1,10 @@
+openai
+langchain
+beautifulsoup4
+requests
+nltk
+tiktoken
+llama-index
+markdown
+pydantic
+ 
